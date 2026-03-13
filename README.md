@@ -6,8 +6,9 @@ If you are new to the mod, start with the basics and work forward.
 
 ## Disclaimer
 The following mods are required for Arcanum to load correctly
--[Zima](https://www.curseforge.com/hytale/mods/zima)
--[AutoMultiHud](https://www.curseforge.com/hytale/mods/automultihud)
+
+- [Zima](https://www.curseforge.com/hytale/mods/zima)
+- [AutoMultiHud](https://www.curseforge.com/hytale/mods/automultihud)
 
 ## Start Here
 
