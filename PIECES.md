@@ -50,6 +50,7 @@ Generated from `PieceCatalog` so UI, unlock pools, and docs stay aligned.
 | Nearest Presence<br><sub>Find the nearest entity to a position.</sub> | `arcanum:info_nearest_entity` | TRIGGER codex (8) |
 | Nearby Presences<br><sub>List entities in a radius.</sub> | `arcanum:info_entities_in_radius` | TRIGGER codex (7) |
 | Discern Bearing<br><sub>Calculate a normalized bearing between two positions.</sub> | `arcanum:info_direction_to` | TRIGGER codex (8) |
+| Presence Facing<br><sub>Read the facing direction of any entity.</sub> | `arcanum:info_get_facing` | TRIGGER codex (9) |
 | Gaze Presence<br><sub>Raycast to an entity.</sub> | `arcanum:info_raycast_entity` | TRIGGER codex (9) |
 | Gaze Distance<br><sub>Raycast to a distance value.</sub> | `arcanum:info_raycast_distance` | TRIGGER codex (8) |
 | Gaze Surface<br><sub>Raycast to a surface normal.</sub> | `arcanum:info_raycast_normal` | TRIGGER codex (8) |
